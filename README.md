@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <em>Despues de leer todo estoGracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto que pueda ser interesante</em>
+  <em>Despues de leer todo esto, gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto que pueda ser interesante</em>
 </p>
