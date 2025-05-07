@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  Un desarrollador Front-End con <strong>6 años de experiencia</strong>, buscando dar vida a apps dinámicas y atractivas con <strong>Vue.js</strong>.
-  Me encanta transformar ideas en experiencias digitales intuitivas y eficientes.
+  Soy Un desarrollador Front-End con <strong>6 años de experiencia</strong>, buscando dar vida a apps dinámicas y atractivas con <strong>Vue.js</strong>.
+  Me encanta transformar ideas en experiencias digitales intuitivas y copadas.
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <h2 align="center">🚀 Mis Tecnologías y Herramientas</h2>
 
 <p align="center">
-  Aunque Vue.js es mi main, mi stack tecnológico es diverso y siempre estoy aprendiendo:
+  Aunque Vue.js es mi main, mi stack tecnológico es diverso y siempre estoy aprendiendo cosas nuevas:
 </p>
 
 <p align="center">
@@ -47,13 +47,13 @@
 <h2 align="center">✨ Un Poco Sobre Mí</h2>
 
 <p align="center">
-  Soy un firme creyente en el código limpio, las buenas prácticas y la colaboración en equipo. <br />
+  Creo en el balance entre el clean code y los issues para ayer, las buenas prácticas y la colaboración en equipo. <br />
   Siempre busco nuevos desafíos que me permitan crecer profesionalmente y contribuir con soluciones innovadoras. <br />
-  Cuando no estoy programando, probablemente me encuentres [TuHobbyPrincipal] o explorando [OtroInteres].
+  Cuando no estoy programando, probablemente me encuentres estudiando, jugando a la compu o en el gym.
 </p>
 
 ---
 
 <p align="center">
-  <em>¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto en mente.</em>
+  <em>Despues de leer todo estoGracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto que pueda ser interesante</em>
 </p>
