@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  Soy Un desarrollador Front-End con <strong>6 años de experiencia</strong>, buscando dar vida a apps dinámicas y atractivas con <strong>Vue.js</strong>.
-  Me encanta transformar ideas en experiencias digitales intuitivas y copadas.
+  Soy Un desarrollador Front-End con <strong>6 años de experiencia</strong></strong>.
+  Me encanta programar y probar cosas nuevas.
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <h2 align="center">🚀 Mis Tecnologías y Herramientas</h2>
 
 <p align="center">
-  Aunque Vue.js es mi main, mi stack tecnológico es diverso y siempre estoy aprendiendo cosas nuevas:
+  Me especializo en Vue.js, aunque mi stack tecnológico es diverso y siempre estoy aprendiendo cosas nuevas, algunas de las herramientas que usé en mi carrera fueron:
 </p>
 
 <p align="center">
@@ -47,9 +47,9 @@
 <h2 align="center">✨ Un Poco Sobre Mí</h2>
 
 <p align="center">
-  Creo en el balance entre el clean code y los issues para ayer, las buenas prácticas y la colaboración en equipo. <br />
-  Siempre busco nuevos desafíos que me permitan crecer profesionalmente y contribuir con soluciones innovadoras. <br />
-  Cuando no estoy programando, probablemente me encuentres estudiando, jugando a la compu o en el gym.
+  Cuándo tengo tiempo libre me encanta poner a prueba cualquier cosa, desde una app para marcar las compras hasta una plataforma que administre viajes, siempre buscando hacerlo en el menor tiempo y lo mejor posible. <br />
+  Siempre busco nuevos desafíos que me permitan poner a pruebas las nuevas herramientas que van saliendo al mercado. <br />
+  PD: Me encanta viajar así que trato de crear apps que me ayuden con todo lo relacionado a ello.
 </p>
 
 ---
