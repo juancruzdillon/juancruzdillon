@@ -1,12 +1,12 @@
 <h1 align="center">¡Hola! 👋 Soy Juan</h1>
 <p align="center">
-  <a href="https://github.com/[TuUsuarioGitHub]">
+  <a href="https://github.com/juancruzdillon">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Desarrollador+Front-End;Programador+en+Vue.js;6+Años+de+Experiencia" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  Soy Un desarrollador Front-End con <strong>6 años de experiencia</strong></strong>.
+  Soy Un desarrollador Front-End con <strong>8 años de experiencia</strong></strong>.
   Me encanta programar y probar cosas nuevas.
 </p>
 
